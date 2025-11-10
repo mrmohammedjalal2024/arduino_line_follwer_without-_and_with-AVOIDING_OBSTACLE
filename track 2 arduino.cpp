@@ -1,3 +1,4 @@
+//Code for line follower
 const int leftSensor = A5;
 const int middleSensor = 4;
 const int rightSensor = A4;
@@ -321,4 +322,5 @@ void loop() {
   }
   
   delay(20);  
+
 }
